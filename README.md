@@ -8,12 +8,14 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você também precisar�
 
 1. Clone o repositório para sua máquina:
 
-git clone https://github.com/JoaoVitorChaves-05/API_RESTful.git
-cd API_RESTful
+    ```bash
+    git clone https://github.com/JoaoVitorChaves-05/API_RESTful.git
+    cd API_RESTful
 
 2. Instale as dependências do projeto:
 
-npm start
+    ```bash
+    npm start
 
 3. Configure o banco de dados:
 
@@ -32,7 +34,7 @@ npm start
     mysql -u <user> -p
     <password>
     ```
-    
+
     ```mysql
     CREATE DATABASE <database_name>;
     exit;
