@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.1",
+    "sequelize": "^6.33.0"
+  },
+  "name": "daw",
+  "description": "Esta é uma API simples para gerenciar alunos, cursos e associações entre eles usando Express.js e Sequelize. Você pode usar esta API para realizar operações CRUD (Create, Read, Update, Delete) em alunos, cursos e associações aluno-curso.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
