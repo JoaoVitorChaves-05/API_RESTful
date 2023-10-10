@@ -15,7 +15,7 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você também precisar�
 2. Instale as dependências do projeto:
 
     ```bash
-    npm start
+    npm install
 
 3. Configure o banco de dados:
 
@@ -39,16 +39,9 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você também precisar�
     CREATE DATABASE <database_name>;
     exit;
 
-## Baixando módulos
-
-5. Digite o seguinte comando:
-
-    ```bash
-    npm install
-
 ## Inicializando servidor
 
-6. Insira este comando:
+5. Insira este comando:
 
     ```bash
     npm start
