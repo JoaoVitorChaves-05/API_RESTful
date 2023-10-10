@@ -31,6 +31,7 @@ npm start
     ```bash
     mysql -u <user> -p
     <password>
+    ```
     
     ```mysql
     CREATE DATABASE <database_name>;
